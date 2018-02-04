@@ -1,0 +1,2 @@
+# HorizontalScrollSlideView
+Android横向滑动加载更多显示效果
